@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+}
+h2,h3,h6,p,td{
+    color: lightcyan;
+}
+.italic{
+    font-style: italic;
+}
